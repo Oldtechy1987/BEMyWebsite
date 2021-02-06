@@ -30,6 +30,9 @@ h3 {
   font-family: 'Yusei Magic', sans-serif;
 }
 
+.h3-hobbies {
+  text-align: right;
+}
 hr {
   color: #EAF6F6;
   border-style: dotted;
@@ -98,14 +101,14 @@ a:hover {
 .skill-row {
   width: 50%;
   margin: 100px auto 0;
-  text-align: left;
+  text-align: justify;
   position: relative;
   top: -70px;
 }
 
 .hobbies-image {
   float: right;
-  text-align: right;
+  text-align: justify;
   width: 20%;
 }
 
